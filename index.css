@@ -1,0 +1,14 @@
+body{
+     background-color: rgb(62, 63, 51); 
+}
+
+
+
+.ttt{
+     align-items: center;
+     justify-content: center;
+}
+
+table{
+    border: 5px solid wheat;
+}
